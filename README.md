@@ -29,3 +29,24 @@ const Mojtaba = {
     currentFocus: "Designing scalable backend systems with Node.js",
     funFact: "Bugs and errors are my best friends"
 };
+```
+## Backend Technologies I Use with Node.js
+
+<p>
+<img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="60" />&nbsp;
+<img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="60" />
+<img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="60" />&nbsp;
+<img src="https://skillicons.dev/icons?i=express" alt="Express.js" width="60" />&nbsp;
+<img src="https://skillicons.dev/icons?i=nestjs" alt="NestJS" width="60" />&nbsp;
+<img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="60" />&nbsp;
+<img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="60" />&nbsp;
+<img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" width="60" />&nbsp;
+<img src="https://skillicons.dev/icons?i=redis" alt="Redis" width="60" />
+<img src="https://skillicons.dev/icons?i=elasticsearch" alt="Elasticsearch" width="60" />&nbsp;
+<img src="https://skillicons.dev/icons?i=rabbitmq" alt="RabbitMQ" width="60" />&nbsp;
+<img src="https://skillicons.dev/icons?i=kafka" alt="Kafka" width="60" />&nbsp;
+<img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="60" />&nbsp;
+<img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="60" />
+</p>
+
+
