@@ -47,6 +47,13 @@ const Mojtaba = {
 <img src="https://skillicons.dev/icons?i=kafka" alt="Kafka" width="60" />&nbsp;
 <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="60" />&nbsp;
 <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="60" />
+<img src="https://skillicons.dev/icons?i=npm" alt="npm" width="60" />
+<img src="https://skillicons.dev/icons?i=express" alt="Express.js" width="60" />&nbsp;
+<img src="https://skillicons.dev/icons?i=nestjs" alt="NestJS" width="60" />&nbsp;
+<img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="60" />&nbsp;
+<img src="https://skillicons.dev/icons?i=elasticsearch" alt="Elasticsearch" width="60" />&nbsp;
+<img src="https://skillicons.dev/icons?i=rabbitmq" alt="RabbitMQ" width="60" />&nbsp;
+<img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" width="60" />
 </p>
 
 
