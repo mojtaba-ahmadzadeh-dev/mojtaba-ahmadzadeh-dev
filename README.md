@@ -33,22 +33,22 @@ const Mojtaba = {
 ## Backend Technologies I Use with Node.js
 
 <p>
-<img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="60" />&nbsp;
-<img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="60" />
-<img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="60" />&nbsp;
-<img src="https://skillicons.dev/icons?i=express" alt="Express.js" width="60" />&nbsp;
-<img src="https://skillicons.dev/icons?i=nestjs" alt="NestJS" width="60" />&nbsp;
-<img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="60" />&nbsp;
-<img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="60" />&nbsp;
-<img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" width="60" />&nbsp;
-<img src="https://skillicons.dev/icons?i=redis" alt="Redis" width="60" />
-<img src="https://skillicons.dev/icons?i=elasticsearch" alt="Elasticsearch" width="60" />&nbsp;
-<img src="https://skillicons.dev/icons?i=rabbitmq" alt="RabbitMQ" width="60" />&nbsp;
-<img src="https://skillicons.dev/icons?i=kafka" alt="Kafka" width="60" />&nbsp;
-<img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="60" />&nbsp;
-<img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="60" />
-<img src="https://skillicons.dev/icons?i=npm" alt="npm" width="60" />
-<img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" width="60" />
+<img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="50" />&nbsp;
+<img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="50" />
+<img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="50" />&nbsp;
+<img src="https://skillicons.dev/icons?i=express" alt="Express.js" width="50" />&nbsp;
+<img src="https://skillicons.dev/icons?i=nestjs" alt="NestJS" width="50" />&nbsp;
+<img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="50" />&nbsp;
+<img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="50" />&nbsp;
+<img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" width="50" />&nbsp;
+<img src="https://skillicons.dev/icons?i=redis" alt="Redis" width="50" />
+<img src="https://skillicons.dev/icons?i=elasticsearch" alt="Elasticsearch" width="50" />&nbsp;
+<img src="https://skillicons.dev/icons?i=rabbitmq" alt="RabbitMQ" width="50" />&nbsp;
+<img src="https://skillicons.dev/icons?i=kafka" alt="Kafka" width="50" />&nbsp;
+<img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="50" />&nbsp;
+<img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="50" />
+<img src="https://skillicons.dev/icons?i=npm" alt="npm" width="50" />
+<img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" width="50" />
 </p>
 
 
